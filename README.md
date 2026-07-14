@@ -1,5 +1,4 @@
 # Smart-Route-Planning-and-Navigation-System
-# Bharat Route Planning & Navigation System
 
 A comprehensive C-based console application designed to demonstrate essential graph-based Data Structures and Algorithms (DSA) applied to real-world Indian highway logistics.
 
